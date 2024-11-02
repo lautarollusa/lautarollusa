@@ -8,10 +8,6 @@ I'm a full-stack developer, chef, hippie, hitchhiker, and nerd.
 
 [![Frontend Development](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,nextjs,astro)](https://skillicons.dev)
 
-[![Styles](https://skillicons.dev/icons?i=tailwind,styledcomponents,bootstrap,vuetify)](https://skillicons.dev)
-
-[![Mobile Development](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
-
 [![Backend Development](https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,py,flask,cs,dotnet,php,laravel)](https://skillicons.dev)
 
 [![Databases](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb)](https://skillicons.dev)
