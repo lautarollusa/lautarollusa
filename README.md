@@ -11,6 +11,8 @@ I'm a full-stack developer, chef, hippie, hitchhiker, and nerd.
 [![Backend Development](https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,py,flask,cs,dotnet,php,laravel)](https://skillicons.dev)
 
 [![Databases](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb)](https://skillicons.dev)
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=talingo&layout=compact">
 <!--
 **talingo/talingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
