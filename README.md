@@ -1,6 +1,6 @@
 ## Hi, I'm Lautaro 👋
 I'm a fullstack developer, chef, hippie, hitchhiker, and nerd.
-## Current Stack:
+# Current Stack:
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 ## Latest activity on Github
