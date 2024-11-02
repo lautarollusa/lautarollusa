@@ -3,7 +3,7 @@
 I'm a full-stack developer, chef, hippie, hitchhiker, and nerd.
 I work best in dynamic, purposeful and diligent teams, who never shy away from a challenge, where I can continue to improve my skills while building meaningful projects.
 
-To see some of the projects I have been working on recently, see my [website](httpss://talingo.github.io/portfolio).
+To see some of the projects I have been working on recently, see my [website](https://talingo.github.io/portfolio/)
 
 
 - 🌱 I’m currently learning ... [#100Devs](https://leonnoel.com/100devs/)
