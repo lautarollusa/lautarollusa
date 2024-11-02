@@ -3,7 +3,7 @@ I'm a fullstack developer, chef, hippie, hitchhiker, and nerd.
 ## Current Stack:
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
-##
+## Latest activity on Github
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
