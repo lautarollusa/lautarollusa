@@ -7,6 +7,7 @@ I'm a fullstack developer, chef, hippie, hitchhiker, and nerd.
 <!--START_SECTION:activity-->
 ### Now Playing 🎧
 [![Spotify](spotify-now-playing-xi-one.vercel.app)](https://open.spotify.com/user/21doa2xi2hbpmwwsdrfdgqzui)
+[<img src="https://spotify-now-playing-xi-one.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/21doa2xi2hbpmwwsdrfdgqzui)
 <br/>
 <!--
 **talingo/talingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
