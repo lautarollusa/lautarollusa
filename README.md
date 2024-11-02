@@ -6,7 +6,7 @@ I'm a fullstack developer, chef, hippie, hitchhiker, and nerd.
 ## Latest activity on Github
 <!--START_SECTION:activity-->
 ### Now Playing 🎧
-[![Spotify](spotify-now-playing-xi-one.vercel.app)](https://open.spotify.com/user/21doa2xi2hbpmwwsdrfdgqzui)
+[![Spotify](spotify-now-playing-xi-one.vercel.app/api/spotify)](https://open.spotify.com/user/21doa2xi2hbpmwwsdrfdgqzui)
 [<img src="https://spotify-now-playing-xi-one.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/21doa2xi2hbpmwwsdrfdgqzui)
 <br/>
 <!--
