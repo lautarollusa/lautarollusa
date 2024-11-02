@@ -1,6 +1,7 @@
 ## Hi, I'm Lautaro 👋
 I'm a fullstack developer, chef, hippie, hitchhiker, and nerd.
-Current Stack:
+## Current Stack:
+<br/>
 [![Current Stack:](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ##
