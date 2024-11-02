@@ -15,10 +15,6 @@ I'm a full-stack developer, chef, hippie, hitchhiker, and nerd.
 [![Backend Development](https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,py,flask,cs,dotnet,php,laravel)](https://skillicons.dev)
 
 [![Databases](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb)](https://skillicons.dev)
-
-[![Infrastructure & DevOps](https://skillicons.dev/icons?i=aws,azure,firebase,docker,kubernetes,jenkins,git)](https://skillicons.dev)
-
-[![Other Tools](https://skillicons.dev/icons?i=graphql,jest,postman,wordpress)](https://skillicons.dev)
 <!--
 **talingo/talingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
