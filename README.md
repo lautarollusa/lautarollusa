@@ -5,8 +5,6 @@ I'm a fullstack developer, chef, hippie, hitchhiker, and nerd.
 
 ## Latest activity on Github
 <!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 ### Now Playing 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/21doa2xi2hbpmwwsdrfdgqzui)
