@@ -2,6 +2,11 @@
 I'm a fullstack developer, chef, hippie, hitchhiker, and nerd.
 Current Stack:
 [![Current Stack:](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+##
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 ### Now Playing 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/21doa2xi2hbpmwwsdrfdgqzui)
