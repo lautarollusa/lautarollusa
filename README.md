@@ -4,11 +4,10 @@ I'm a full-stack developer, chef, hippie, hitchhiker, and nerd.
 - 🌱 I’m currently learning ... [#100Devs](https://leonnoel.com/100devs/)
 
 
-## 🛠 Tools I've Played With
+## 🛠 Tools I've Played With...
 
-#### Frontend Development
 [![Frontend Development](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,nextjs,astro)](https://skillicons.dev)
-### Styles
+
 [![Styles](https://skillicons.dev/icons?i=tailwind,styledcomponents,bootstrap,vuetify)](https://skillicons.dev)
 ### Mobile Development
 [![Mobile Development](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
