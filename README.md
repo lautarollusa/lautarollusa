@@ -1,9 +1,7 @@
-## Hi, I'm Lautaro 👋
-I'm a fullstack developer, chef, hippie, hitchhiker, and nerd.
-# Tools I've played with:
 # Hi, I'm Lautaro 👋
 
-I'm a **full-stack developer**, **chef**, **hippie**, **hitchhiker**, and **nerd**.
+I'm a full-stack developer, chef, hippie, hitchhiker, and nerd.
+- 🌱 I’m currently learning ... [#100Devs](https://leonnoel.com/100devs/)
 
 ---
 
