@@ -3,7 +3,7 @@
 I'm a passionate **full-stack developer**, adventurous **chef**, enthusiastic **hitchhiker**, and a proud **nerd**!  
 I thrive in dynamic, purpose-driven teams that embrace challenges, allowing me to sharpen my skills while building impactful projects.
 
-💻 Explore some of my recent work on my [Portfolio Website](https://talingo.github.io/portfolio/).
+💻 Explore some of my recent work on my [Portfolio Website](https://lautarollusa.github.io/portfolio/).
 
 ---
 
@@ -27,8 +27,8 @@ Currently, I'm leveling up my development skills with [#100Devs](https://leonnoe
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talingo&layout=compact&theme=tokyonight)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=talingo&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lautarollusa&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lautarollusa&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -40,10 +40,10 @@ Currently, I'm leveling up my development skills with [#100Devs](https://leonnoe
 ---
 
 ### 📬 Get in Touch!  
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/lautaro-llusa) or explore my [projects](https://talingo.github.io/portfolio/). Let's create something amazing together!
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/lautaro-llusa) or explore my [projects](https://lautarollusa.github.io/portfolio/). Let's create something amazing together!
 
 <!--
-**talingo/talingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lautarollusa/lautarollusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
